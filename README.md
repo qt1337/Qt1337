@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Qt1337 Spotify Playing" width="350" />](https://open.spotify.com/user/yx4fy5dj4mrql6zxlubfy0zta)
 
 ### Connect with me:
 
@@ -40,6 +40,9 @@
 
 <br />
 <br />
+
+[![Qt1337's github stats](https://github-readme-stats.vercel.app/api?username=qt1337)](https://github.com/qt1337)
+
 
 [website]: https://app.plantshub.de
 [blog]: https://blog.plantshub.de
