@@ -1,9 +1,9 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Dave - aka [Qt1337][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=app.plantshub.de&style=for-the-badge&url=https%3A%2F%2Fapp.plantshub.de)](https://app.plantshub.de)
+[![Blog](https://img.shields.io/website?label=blog.plantshub.de&style=for-the-badge&url=https%3A%2F%2Fblog.plantshub.de)](https://blog.plantshub.de)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a student at the DHBW-Karlsruhe
 
 - 🌱 I’m currently working on PlantsHub
 - 👯 I’m looking to collaborate with other ambitious contributors
