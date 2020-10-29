@@ -13,9 +13,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Qt1337 Spotify Playing" width="350" />](https://open.spotify.com/user/yx4fy5dj4mrql6zxlubfy0zta)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yx4fy5dj4mrql6zxlubfy0zta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="plantshub.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="blog.plantshub.de" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_179745.png" />][blog]
@@ -23,7 +23,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Jetbrains Toolbox" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/jetbrains-toolbox-icon.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -39,9 +39,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
-<br />
 
-[![Qt1337's github stats](https://github-readme-stats.vercel.app/api?username=qt1337)](https://github.com/qt1337)
+### GitHub Stats
+
+[![Qt1337's github stats](https://github-readme-stats.vercel.app/api?username=qt1337)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://app.plantshub.de
