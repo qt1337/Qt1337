@@ -44,6 +44,10 @@
 
 [![Qt1337's github stats](https://github-readme-stats.vercel.app/api?username=qt1337)](https://github.com/anuraghazra/github-readme-stats)
 
+### Codewars Stats
+
+[![Qt1337's codewars stats](https://www.codewars.com/users/qt1337/badges/large)
+
 
 [website]: https://app.plantshub.de
 [blog]: https://blog.plantshub.de
