@@ -46,7 +46,7 @@
 
 ### Codewars Stats
 
-[![Qt1337's codewars stats](https://www.codewars.com/users/qt1337/badges/large)
+[Qt1337's codewars stats](https://www.codewars.com/users/qt1337/badges/large)
 
 
 [website]: https://app.plantshub.de
