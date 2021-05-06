@@ -11,10 +11,6 @@
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ride my motorcycle
 
-### Spotify Playing 🎧
-
-<> ([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yx4fy5dj4mrql6zxlubfy0zta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile))
-
 ### Connect with me
 
 [<img align="left" alt="plantshub.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
