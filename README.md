@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yx4fy5dj4mrql6zxlubfy0zta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<> ([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yx4fy5dj4mrql6zxlubfy0zta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile))
 
 ### Connect with me
 
