@@ -5,7 +5,7 @@
 
 ## I'm a student at the DHBW-Karlsruhe
 
-- 🌱 I’m currently working on PlantsHub
+- 🌱 I’m currently working on PlantsHub (a project for university)
 - 👯 I’m looking to collaborate with other ambitious contributors
 - 🥅 2020 Goal: Get PlantsHub ready
 - 🥅 2021 Goal: Contribute more to Open Source projects
